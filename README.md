@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lhncbc/lforms-fhir-app)
+
 # A SMART app for FHIR SDC Questionnaire
 
 This is a [SMART](http://docs.smarthealthit.org/) app that can be used in
